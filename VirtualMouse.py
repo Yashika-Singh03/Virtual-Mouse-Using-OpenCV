@@ -65,7 +65,7 @@ def start_mouse_control():
                 # Click Mode
                 if fingers[1] == 1 and fingers[2] == 1:
                     length, _, coords = detector.findDistance(8, 12, img)
-                    if length < 40 and click_cooldown == 0:
+                    if length < 60 and click_cooldown == 0:
                         autopy.mouse.click()
                         click_cooldown = 10  # prevent multiple clicks
 
