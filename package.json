@@ -1,0 +1,19 @@
+{
+  "name": "virtual-mouse-using-opencv",
+  "version": "1.0.0",
+  "description": "In this project we will be using the live feed coming from the webcam to create a virtual mouse using hand tracking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashika-Singh03/Virtual-Mouse-Using-OpenCV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashika-Singh03/Virtual-Mouse-Using-OpenCV/issues"
+  },
+  "homepage": "https://github.com/Yashika-Singh03/Virtual-Mouse-Using-OpenCV#readme"
+}
